@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote fetch="https://github.com/kiran8589" name="origin" />
+  <default remote="origin" sync-j="4" revision="master" />
+
+  <project name="helloworld" path="hworld" />
+  <project name="systeminfo" path="sysinfo" />
+</manifest>
